@@ -6,3 +6,5 @@
 - HTML
 - CSS
 - Javascript
+## Click Below to check out the output:
+[<u>Click me! </u>](https://aarthi-na.github.io/courseera-mod3-Assignment-Solution/) 
